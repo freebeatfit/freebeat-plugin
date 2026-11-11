@@ -1,0 +1,27 @@
+{
+  "$schema": "https://cursor.com/schemas/cursor-plugin/plugin.json",
+  "name": "freebeat",
+  "displayName": "Freebeat",
+  "version": "0.4.7",
+  "description": "Create music videos, dance videos, and animated lyric videos from your songs, plus original music, images, video clips, singing photos, and lip-sync videos, through the Freebeat MCP server.",
+  "author": {
+    "name": "Freebeat",
+    "email": "support@freebeat.ai"
+  },
+  "publisher": "Freebeat",
+  "homepage": "https://freebeat.ai",
+  "repository": "https://github.com/freebeatfit/freebeat-plugin",
+  "license": "MIT",
+  "category": "ai-content",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "freebeat",
+    "music-video",
+    "dance-video",
+    "lyric-video",
+    "music-generation",
+    "video-generation",
+    "image-generation",
+    "lip-sync"
+  ]
+}
